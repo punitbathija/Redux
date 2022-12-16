@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "immer": "^9.0.16",
+    "redux": "^4.2.0"
+  },
+  "name": "redux-tootlkit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
